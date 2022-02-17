@@ -1,0 +1,29 @@
+#map{
+	right: -400px;
+	bottom: -50px;
+	border-style: solid;
+	border-color: black;
+}
+
+.test{
+	float:10px;
+	right:-800px;
+	position: relative;
+   bottom: -100px;
+     
+}
+
+#rubrik{
+	right:-500px;
+	bottom: 430px;
+    position: relative;
+	
+}
+
+#canvas{
+	
+	position: relative;
+	right: -100px;
+	bottom: 100px;
+	
+}
